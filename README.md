@@ -1,5 +1,5 @@
 # EmporiUm Sales Territory Analysis
-### Eyerusalem Debero | Year Up United Data Analyst Training Academy | Capstone 2
+### Eyerusalem Debero | Year Up United | Data Analyst | Dallas Texas | Capstone 2
 
 ## Project Description
 This project analyzes 4 years of in-store sales data for EmporiUm,
